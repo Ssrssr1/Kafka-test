@@ -1,7 +1,9 @@
 # Kafka Producer and Consumer
 一个集合kafka生产者和消费者的功能
 ## 环境要求
-CentOS-Stream9
+* CentOS-Stream9
+* Java 17
+* Apache Maven 3.8.7
 
 ## 参数设置
 
